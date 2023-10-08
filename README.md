@@ -1,4 +1,4 @@
-# De-Anonymization Algorithm
+# Seed Based De-Anonymization 
 
 ## Overview
 
